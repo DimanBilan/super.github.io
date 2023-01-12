@@ -1,0 +1,11 @@
+.masa{
+	border:1px solid red;
+	margin:10px;
+	background-color:LimeGreen;
+	font:italic arial,12px/20px;
+}
+.masa:hover{
+	border-width:7px;
+	
+}
+
